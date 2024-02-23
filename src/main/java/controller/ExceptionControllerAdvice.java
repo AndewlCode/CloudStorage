@@ -1,5 +1,6 @@
 package controller;
 
+import data_transfer_object.ExceptionRS;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.authentication.BadCredentialsException;
